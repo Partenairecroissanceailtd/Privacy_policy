@@ -35,7 +35,7 @@
         <h1>Privacy Policy</h1>
         <p><strong>Last updated:</strong> June 16, 2026</p>
         
-        <p>TradeQuote Pro is owned and operated by <strong> Partenaire Croissance Ai LTD </strong> ("we", "our", or "us"). We respect your privacy and are committed to protecting any information handled through your use of our mobile application.</p>
+        <p>TradeQuote Pro is owned and operated by <strong>Partenaire Croissance AI LTD</strong> ("we", "our", or "us"). We respect your privacy and are committed to protecting any information handled through your use of our mobile application.</p>
 
         <h2>1. Information We Collect</h2>
         <p><strong>Direct Collection:</strong> We do not directly collect, harvest, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, or physical address on our own servers.</p>
@@ -67,7 +67,7 @@
         <p>If you have any questions or suggestions regarding this Privacy Policy, or to exercise your privacy rights, please contact us at:</p>
         <ul>
             <li><strong>Email:</strong> <a href="mailto:ayoub@partenairecroissance.com">ayoub@partenairecroissance.com</a></li>
-            <li><strong>Operating Entity:</strong> [Your UK Company Name Ltd]</li>
+            <li><strong>Operating Entity:</strong> Partenaire Croissance AI LTD</li>
         </ul>
 
         <div class="footer">
@@ -76,4 +76,3 @@
     </div>
 </body>
 </html>
-
